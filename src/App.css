@@ -1,0 +1,42 @@
+h2 span {
+  color: #00ffcc;
+  font-weight: bold;
+}
+.dark .card {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+.project-card {
+  cursor: pointer;
+}
+
+.project-card:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.badge {
+  transition: background-color 0.3s ease;
+}
+
+.badge:hover {
+  background-color: #0d6efd !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: #0d6efd;
+  color: white;
+}
+.hover-effect {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.hover-effect:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+.hover-effect {
+  transition: all 0.3s ease;
+}
+.hover-effect:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}

@@ -1,0 +1,10 @@
+body.dark-mode {
+  background-color: #121212;
+  color: #eee;
+}
+
+body.dark-mode a {
+  color: #bb86fc;
+}
+
+/* Add other dark mode styles */
