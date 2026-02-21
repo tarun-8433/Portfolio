@@ -8,14 +8,14 @@ const education = [
     icon: <FaUniversity />,
     title: "MCA - Master of Computer Applications",
     place: "Chandigarh University",
-    year: "2021 - 2023",
+    year: "2023 - 2025",
     description: "Specialized in Full Stack Development and Software Engineering.",
   },
   {
     icon: <FaUniversity />,
     title: "BCA - Bachelor of Computer Applications",
     place: "Dr.Bhim Rao Ambedkar University",
-    year: "2018 - 2021",
+    year: "2020 - 2023",
     description: "Studied core computer science subjects and web development.",
   },
   {
