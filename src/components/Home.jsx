@@ -38,7 +38,7 @@ const Home = () => {
                   <FaGithub size={30} className="social-icon" />
                 </a>
 
-                <a href={resume} download="Tarun_Shukla_Resume.pdf" className="btn resume-btn">
+                <a href={resume} download="Resume.pdf" className="btn resume-btn">
                   Download Resume
                 </a>
               </div>

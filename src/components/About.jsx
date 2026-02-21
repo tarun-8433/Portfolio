@@ -27,7 +27,7 @@ const About = () => {
           <p>
             I’ve worked on a hospital management system, NewsHub, and various AI and data visualization projects. My goal is to create seamless user experiences.
           </p>
-          <a href="/Tarun-Shukla-Resume.pdf" download className="btn btn-primary mt-3">
+          <a href="/Resume.pdf" download className="btn btn-primary mt-3">
             Download Resume
           </a>
         </div>
